@@ -12,4 +12,4 @@ def chart (array)
     end
     print "\n"
 end
-chart (data)
+##chart (data)
