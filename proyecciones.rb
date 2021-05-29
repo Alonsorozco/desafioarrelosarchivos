@@ -7,9 +7,4 @@ output.puts resultado1.ceil(2)
 output.puts resultado2.ceil(2)
 
 
-# puts resultado1
-# puts resultado2
-# print "\n"
 
-
-# File.write('/path/to/file', 'resultados.data')
